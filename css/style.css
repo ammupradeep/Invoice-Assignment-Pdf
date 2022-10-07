@@ -1,0 +1,47 @@
+*{
+    font-family: sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}ś
+
+table{
+    text-align: left;
+    width: 800px;
+    border-collapse: collapse;
+    border: 2px solid black;
+    border-style: solid;
+}
+
+ table{
+    text-align: left;
+    font-size: 20px;
+} 
+
+.text-left {
+    text-align: left;
+}
+
+.terms {
+    align-items: top;
+}
+
+.small-th {
+    font-weight: 80;   
+    font-size: 0.5rem;
+    padding: 10px;
+}
+
+.nested-table th,td{
+    font-size: 10px;
+}
+
+
+.margin-adjust-top {
+    margin-top: 0;
+}
+
+.border-line {
+    border-bottom: 2px solid black;
+}
